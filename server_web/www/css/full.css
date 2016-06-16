@@ -1,0 +1,111 @@
+/*!
+ * Start Bootstrap - Full HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.full {
+/*
+    background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+html{
+width: 100%;
+height: 100%;
+}
+/*
+
+//Partie Antoine
+#blocpage{
+background-color: #555555;
+width: 50%;
+height: 70%;
+margin-left:auto;
+margin-right:auto;
+}
+*/
+
+#test{
+background-color:#cccccc;
+position: absolute;
+top:50px;
+bottom:50px;
+width: 90%;
+heigh: 100%;
+margin-left:5%;
+}
+
+#test2{
+background-color:#cccccc;
+position: absolute;
+top:10px;
+width: 90%;
+heigh: 100px;
+margin-left:5%;
+}
+
+#test3{
+background-color:#000000;
+color:#dddddd;
+position: absolute;
+top:100px;
+width: 40%;
+heigh: 100px;
+margin-left:30%;
+opacity:0.6;
+}
+
+#test4{
+background-color:#000000;
+color:#dddddd;
+position: absolute;
+top:100px;
+width: 70%;
+heigh: 100px;
+margin-left:15%;
+opacity:0.6;
+}
+
+iframe{
+position:absolute;
+top:0px;
+left:0px;
+width : 100%;
+height : 100%;
+}
+
+
+#main{
+ background: url('../img/euro.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+position: absolute;
+top:50px;
+bottom:0px;
+width: 100%;
+overflow:auto;
+
+}
+
+#full{
+background-color: #000000;
+position: absolute;
+top:0px;
+bottom:0px;
+width: 100%;
+height: 100%;
+
+}
